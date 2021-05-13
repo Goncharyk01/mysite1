@@ -1,0 +1,36 @@
+h1{
+	text-align:center;
+	Font-family:Monotype Corsiva;
+	font-size:200%;
+	color:red;
+}
+.b1{
+	margin:auto;
+	padding:20px;
+	width:100%;
+	border:4px dotted teal;
+	
+}
+Body{
+	background-image: url("https://img.freepik.com/free-vector/leaves-background-with-metallic-foil_79603-956.jpg?size=626&ext=jpg");
+	background-attachment:scroll;
+}
+a:active{ 
+color:yellow;
+}
+a:visited{
+color:purple;
+}
+a:hover{
+	font-style:italic;
+	color:red;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+.link span{
+	position:absolute;
+	transition:.5s;
+}
+.link hover{
+	opasity:1;
+}
